@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "diprefranco.github.io": {
+    "octolith.github.io": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/diprefranco.github.io",
+            "outputPath": "dist/octolith.github.io",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
@@ -57,10 +57,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "diprefranco.github.io:build:production"
+              "buildTarget": "octolith.github.io:build:production"
             },
             "development": {
-              "buildTarget": "diprefranco.github.io:build:development"
+              "buildTarget": "octolith.github.io:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -68,7 +68,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "buildTarget": "diprefranco.github.io:build"
+            "buildTarget": "octolith.github.io:build"
           }
         },
         "test": {

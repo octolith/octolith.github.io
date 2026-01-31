@@ -4,7 +4,7 @@ import { Injectable } from '@angular/core';
   providedIn: 'root'
 })
 export class ResourceService {
-  private email = 'diprefranco@gmail.com';
+  private email = 'octolith@gmail.com';
 
   getEmail(): string {
     return this.email;
@@ -19,7 +19,7 @@ export class ResourceService {
   }
 
   getGithubUrl(): string {
-    return 'https://github.com/diprefranco';
+    return 'https://github.com/octolith';
   }
 
   getStackoverflowUrl(): string {
