@@ -36,7 +36,7 @@ export class AppComponent implements OnInit {
   ║                      The site code you're exploring might be minimized.                                           ║  
   ║                      Check it out here: https://github.com/octolith/octolith.github.io                      ║  
   ║                                                                                                                   ║  
-  ║                                                © ${this.currentYear} Franco Dipre                                                ║  
+  ║                                                © ${this.currentYear} Marcell Lévai                                                ║  
   ╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝  
                                                                                                                          `,
         "font-size: 14px; color: #0abefb; background-color: #191919");

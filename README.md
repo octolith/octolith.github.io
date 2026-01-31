@@ -33,7 +33,7 @@ This design was inspired by work from [Sajid](https://www.iamsajid.com/). I want
 Check out [Sajid's YouTube channel](https://www.youtube.com/@whosajid) to learn some great web design basics and tricks.
 
 ## Author
-GitHub: [Franco Dipre](https://github.com/octolith/)
+GitHub: [Marcell Lévai](https://github.com/octolith/)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
